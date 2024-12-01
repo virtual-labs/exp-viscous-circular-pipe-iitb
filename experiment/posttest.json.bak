@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A crude oil of viscousity 0.97 poise and relative density 0.9 is flowing through a horizontal circular pipe of diameter 118mm and length of 9.9m. Calculate the difference of pressure at the two ends of the pipe, if 106kg of oil is collected in a tank in 43 seconds .",
+      "qid": 1,
+      "option_a": "550.28 N/m<sup>2</sup>",
+      "option_b": "552.75 N/m<sup>2</sup>",
+      "option_c": "562.73 N/m<sup>2</sup>",
+      "option_d": "561.59 N/m<sup>2</sup>",
+      "correct_option": "b"
+   },
+   {
+      "question": "A crude oil of viscousity 0.97 poise and relative density 0.9 is flowing through a horizontal circular pipe of diameter 109mm and length of 10.1m. Calculate the difference of pressure at the two ends of the pipe, if 108kg of oil is collected in a tank in 40 seconds .",
+      "qid": 2,
+      "option_a": "848.33 N/m<sup>2</sup>",
+      "option_b": "839.73 N/m<sup>2</sup>",
+      "option_c": "852.84 N/m<sup>2</sup>",
+      "option_d": "859.61 N/m<sup>2</sup>",
+      "correct_option": "a"
+   }
+]
